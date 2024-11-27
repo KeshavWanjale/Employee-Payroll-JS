@@ -1,0 +1,90 @@
+{
+  "employees": [
+    {
+      "id": "234a",
+      "name": "Alex Gross",
+      "profile": "../assets/profile2.png",
+      "gender": "Male",
+      "department": [
+        "HR",
+        "Finance",
+        "Engineer"
+      ],
+      "salary": "300000",
+      "startDate": {
+        "day": "17",
+        "month": "10",
+        "year": "2023"
+      },
+      "notes": "heyyyyy"
+    },
+    {
+      "id": "f8bb",
+      "name": "Ross Camron",
+      "profile": "../assets/profile1.png",
+      "gender": "Male",
+      "department": [
+        "Sales",
+        "Finance"
+      ],
+      "salary": "400000",
+      "startDate": {
+        "day": "17",
+        "month": "08",
+        "year": "2023"
+      },
+      "notes": "koooooooo"
+    },
+    {
+      "id": "8a09",
+      "name": "Keshav Wanjale",
+      "profile": "../assets/profile4.png",
+      "gender": "male",
+      "department": [
+        "HR",
+        "Sales"
+      ],
+      "salary": "60000",
+      "startDate": {
+        "day": "19",
+        "month": "June",
+        "year": "2024"
+      },
+      "notes": "lokokokl"
+    },
+    {
+      "id": "68c3",
+      "name": "Vikram Pawar",
+      "profile": "../assets/profile3.png",
+      "gender": "male",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "salary": "70000",
+      "startDate": {
+        "day": "17",
+        "month": "Oct",
+        "year": "2023"
+      },
+      "notes": "gftygfgdd"
+    },
+    {
+      "id": "6e33",
+      "name": "daef",
+      "profile": "/assets/profile2.png",
+      "gender": "female",
+      "department": [
+        "Finance"
+      ],
+      "salary": "60000",
+      "startDate": {
+        "day": "17",
+        "month": "Dec",
+        "year": "2020"
+      },
+      "notes": "fsagsdg"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "employee-payroll-js",
+  "version": "1.0.0",
+  "description": "This repo contains Employee payroll project using HTML-CSS-JS and local storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./database/db.json"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
