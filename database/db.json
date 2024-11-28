@@ -39,7 +39,7 @@
       "id": "8a09",
       "name": "Keshav Wanjale",
       "profile": "../assets/profile4.png",
-      "gender": "male",
+      "gender": "Male",
       "department": [
         "HR",
         "Sales"
@@ -56,7 +56,7 @@
       "id": "68c3",
       "name": "Vikram Pawar",
       "profile": "../assets/profile3.png",
-      "gender": "male",
+      "gender": "Male",
       "department": [
         "HR",
         "Sales",
@@ -71,20 +71,22 @@
       "notes": "gftygfgdd"
     },
     {
-      "id": "6e33",
       "name": "daef",
-      "profile": "/assets/profile2.png",
-      "gender": "female",
+      "profile": "/assets/profile1.png",
+      "gender": "Female",
       "department": [
-        "Finance"
+        "HR",
+        "Sales",
+        "Engineer"
       ],
       "salary": "60000",
       "startDate": {
-        "day": "17",
+        "day": "31",
         "month": "Dec",
-        "year": "2020"
+        "year": "2024"
       },
-      "notes": "fsagsdg"
+      "notes": "fsagsdg",
+      "id": "6e33"
     }
   ]
 }

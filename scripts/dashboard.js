@@ -74,8 +74,12 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         });
 
+        document.getElementById(`edit-${id}`).addEventListener('click', () => {
+            // Redirect to add_employee page with query params
+            window.location.href = `./add_employee.html?edit=true&id=${id}`;
+        });
+
     }
 
-
-    
+  
 });
